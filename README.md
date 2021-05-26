@@ -17,4 +17,4 @@
 I know Not alot 
 
 ## General Information
-[![Colderry's github stats](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucidium123's github stats](https://github-readme-stats.vercel.app/api?username=Lucidium123&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
