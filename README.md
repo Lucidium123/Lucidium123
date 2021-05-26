@@ -18,3 +18,5 @@ I know Not alot
 
 ## General Information
 [![Lucidium123's github stats](https://github-readme-stats.vercel.app/api?username=Lucidium123&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucidium123&layout=compact)]
