@@ -14,7 +14,7 @@
 - HTML
 - CSS
 - Node.js
-I know Not alot 
+(FrameWork)
 
 ## General Information
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucidium123&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
