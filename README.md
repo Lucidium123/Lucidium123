@@ -7,6 +7,7 @@
 - "I Make Discord Bots and 3 are verified"
 - Learning = "C"
 - Fun Fact = "I Like To Eat"
+- Made 4 Working NPM Packages
 
 ## **Languages I Know**
 - JavaScript
