@@ -22,3 +22,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucidium123&layout=compact)]
+
+![](https://komarev.com/ghpvc/?username=Lucidium123&style=flat-square&color=red&label=PROFILE+VIEWS)
